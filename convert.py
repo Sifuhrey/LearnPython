@@ -1,0 +1,7 @@
+print(float(24))
+print(int(25.5))
+print(str(25.6))
+print(int("14"))
+print(set([1,2,3]))
+print(tuple({5,6,7}))
+print(list('hello'))
